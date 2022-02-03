@@ -5,7 +5,7 @@
 .app {
   background-color: #fafafa;
   /* background-color: whitesmoke; */
-  height:100vh
+  /* height:100vh */
 }
 
 .app_header {
@@ -19,6 +19,15 @@
     width: 10%;
 }
 
+.sign-up-input{
+  margin: 50px;
+}
+
+.app__signup{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 
 
 
